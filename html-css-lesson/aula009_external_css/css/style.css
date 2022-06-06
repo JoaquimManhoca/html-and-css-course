@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(255, 145, 0);
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: purple;
+}
+
+h1 {
+  color: red;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+  color: green;
+  font-size: 20px;
+  font-family: fantasy;
+}

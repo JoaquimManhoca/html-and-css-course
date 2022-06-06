@@ -1,0 +1,40 @@
+  body {
+    background-color: skyblue;
+    font-size: 25px;
+  }
+
+  h1 {
+    color: blue;
+    font-size: 50px;
+  }
+
+  .text {
+    color: white;
+    font-size: 30px;
+  }
+
+  /* this is css box model */
+
+  /*
+  Margin: empty space around my element
+  Border: a border / stroke / around my element  
+  Padding: empty space with background around my element
+
+  all these Add on top of the width and height!
+  */
+
+  .Box {
+    background-color: rgb(231, 64, 231);
+
+    width: 300px;
+
+    margin: 100px;
+
+    border: 10px blue dashed;
+        /*  width  color  style */
+        /* this is the element in border */
+
+    padding: 20px 40px 80px 160px;
+        /*  top right bottom left */
+        /* this is the order of de padding shortcut */
+  }

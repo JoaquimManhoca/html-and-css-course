@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(132, 215, 248);
+}
+
+h1 {
+  color: blue;
+  font-size: 50px;
+}
+
+.text {
+  color: black;
+  font-family: cursive;
+}
+
+.box {
+  background-image: url(../img/earth.jpg);
+
+  background-size: cover;
+
+  background-position: top;
+
+  width: 450px;
+
+  padding: 200px 20px 200px 20px;
+  margin: 20px 0px 0px 100px ;
+}

@@ -1,0 +1,49 @@
+body {
+  background-color: rgba(80, 80, 241, 0.63);
+}
+
+h1 {
+  color: rgb(5, 5, 143);
+  font-size: 50px;
+  font-family: Rockwell, 'Courier Bold', Courier, monospace;
+
+  margin-top: 0px;
+}
+
+h2 {
+  margin: 0px 0px 10px 5px;
+  font-size: 40px;
+  font-family: Chiller, Algerian;
+
+  font-weight: bold;
+}
+
+p {
+  color: rgb(83, 10, 83);
+
+  margin: 0px 0px 10px 0px;
+
+  font-size: 30px;
+
+  font-family: "French Script MT";
+
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+
+  line-height: 1;
+
+  font-weight: normal;
+}
+
+.Box {
+  width: 500px;
+}
+
+.Bold {
+  font-weight: bold;
+}
+
+.Bolder {
+  font-weight: bolder;
+}

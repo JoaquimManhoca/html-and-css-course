@@ -1,0 +1,56 @@
+body {
+  background-color: aqua;
+
+  background-image: url(../img/paris.jpg);
+
+  background-repeat: repeat-y;
+}
+
+h1 {
+  color: rgb(7, 7, 99);
+  font-size: 60px;
+}
+
+h2 {
+  color: rgb(3, 0, 163);
+}
+
+.Box {
+  height: 100px;
+  width: 100px;
+
+  float: left;
+}
+
+.Box1 {
+  background: rgba(255, 0, 0, 0.39);
+}
+.Box2 {
+  background: rgba(255, 255, 0, 0.377);
+}
+.Box3 {
+  background: greenyellow;
+}
+.Box4 {
+  background: green;
+}
+.Box5 {
+  background: blue;
+
+  clear: both;
+}
+.Box6 {
+  background: blueviolet;
+}
+.Box7 {
+  background: violet;
+}
+.Box8 {
+  background: purple;
+}
+.Box9 {
+  background: pink;
+}
+.Box10 {
+  background: silver;
+}

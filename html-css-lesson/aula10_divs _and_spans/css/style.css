@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(129, 218, 224);
+  color: rgb(32, 32, 211);
+  font-size: 20px;
+}
+
+h1 {
+  color: rgb(5, 5, 83);
+  font-size: 70px;
+}
+
+div {
+  background-color: rgb(179, 255, 0);
+  width: 500px;
+}
+
+span {
+  color: green;
+  font-size: 40px;
+}

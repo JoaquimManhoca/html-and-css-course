@@ -1,0 +1,19 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  color: rgb(6, 6, 184);
+
+  font-size: 60px;
+}
+
+.conteiner {
+  background-color: skyblue;
+  
+  width: 70%;
+  max-width: 800px;
+
+  margin-left: auto;
+  margin-right: auto;
+}

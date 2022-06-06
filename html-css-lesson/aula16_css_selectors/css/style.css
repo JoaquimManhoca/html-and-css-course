@@ -1,0 +1,67 @@
+body {
+  background-color: rgb(64, 189, 247);
+
+  font-size: 25px;
+
+  font-family: Candara;
+
+}
+
+h1 {
+  color: rgb(11, 11, 156);
+
+  font-size: 60px;
+
+  font-family: Castellar;
+
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-family: Colonna MT;
+
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+a {
+  color: rgb(199, 44, 186);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: rgb(128, 0, 43);
+  text-decoration: underline;
+}
+
+.Box-text p {
+  font-family: "High Tower Text";
+  text-align: center;
+} 
+
+.text-head {
+  width: 700px;
+}
+
+.Box-text {
+  width: 400px;
+
+  padding: 0px 100px 0px 100px;
+
+}
+
+.Box-text a {
+  color: crimson;
+}
+
+.Box-text a:hover {
+  color: gold;
+  text-decoration: none;
+}
+.important-link,
+.Box-text .important-link  {
+  color: rgb(7, 158, 27);
+  text-decoration: underline;
+}
+

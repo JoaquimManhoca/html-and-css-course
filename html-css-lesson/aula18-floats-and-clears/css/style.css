@@ -1,0 +1,47 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  color: rgb(10, 10, 184);
+  font-size: 70px;
+
+  margin-bottom: 0px;
+}
+
+h2 {
+  margin-top: 0px;
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 15px;
+
+  line-height: 1.4;
+
+  clear: both;
+}
+
+.Green-box {
+  width: 500px;
+
+  background: rgb(21, 255, 0);
+
+  margin-bottom: 20px;
+  
+  float: left;
+}
+
+.Blue-box {
+  width: 500px;
+
+  background: blue;
+
+  float: right;
+}
+
+img {
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}

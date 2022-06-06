@@ -1,0 +1,84 @@
+body {
+  background-color: aqua;
+}
+
+.Box-body {
+  background: antiquewhite;
+  width: 500px;
+  float: left;
+}
+
+.Box-one {
+  background: red;
+  height: 100px;
+  width: 100px;
+
+  float: left;
+}
+
+  .Box-two {
+    background: yellow;
+    height: 100px;
+    width: 100px;
+
+    float: left;
+  }
+  .Box-three {
+    background: orange;
+    height: 100px;
+    width: 100px;
+
+    float: left;
+  }
+  .Box-four {
+    background: green;
+    height: 100px;
+    width: 100px;
+
+    float: left;
+  }
+  .Box-five {
+    background: black;
+    height: 100px;
+    width: 100px;
+
+    clear: both;
+  }
+  .Box-six {
+    background: white;
+    height: 100px;
+    width: 100px;
+
+    float: left;
+  }
+
+  .Box-seven {
+    background: blue;
+    height: 100px;
+    width: 100px;
+
+    float: left;
+  }
+  .Box-eagth {
+    background: purple;
+    height: 100px;
+    width: 100px;
+
+    float: left;
+  }
+  .Box-nine {
+    background: pink;
+    height: 100px;
+    width: 100px;
+
+    clear: both;
+
+    float: left;
+  }
+  .Box-ten {
+    background: brown;
+    height: 100px;
+    width: 100px;
+
+    clear: both;
+  }
